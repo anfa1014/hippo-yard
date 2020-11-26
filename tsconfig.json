@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "esModuleInterop": true,
+    "importHelpers": true,
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "moduleResolution": "node"
+  },
+  "typings": "./global.d.ts"
+}
